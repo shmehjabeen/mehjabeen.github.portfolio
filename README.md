@@ -1,8 +1,9 @@
-**MEHJABEEN SHAIKH**
+*MEHJABEEN SHAIKH*
+*Data Science Portfolio*
 
 **Data Science | Machine Learning | AI Engineering | Finance & Capital Markets**
 
-## 👋 About Me
+## 👋 Professional Summary
 
 Finance and capital markets professional with **10+ years of experience** spanning fund accounting, transaction processing, reconciliations, trade lifecycle operations, and client service. I’m building on that domain expertise with formal training and hands-on practice in **data science, machine learning, deep learning, NLP, and generative AI**.
 
