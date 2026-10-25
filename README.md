@@ -1,4 +1,4 @@
-Mehjabeen Shaikh
+MEHJABEEN SHAIKH
 
 **Data Science | Machine Learning | AI Engineering | Finance & Capital Markets**
 
@@ -8,7 +8,7 @@ Finance and capital markets professional with **10+ years of experience** spanni
 
 My goal is to bring financial context and analytical methods together to solve practical problems: preparing reliable data, uncovering useful patterns, and evaluating predictive models with care.
 
-## 🧰 TECHNICAL & DOMAIN SKILLS 
+## 🧰 Technical & Domain Skills 
 
 | Area | Tools and capabilities |
 |---|---|
