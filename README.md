@@ -8,7 +8,7 @@ Finance and capital markets professional with **10+ years of experience** spanni
 
 My goal is to bring financial context and analytical methods together to solve practical problems: preparing reliable data, uncovering useful patterns, and evaluating predictive models with care.
 
-## 🧰 Skills
+## 🧰 TECHNICAL & DOMAIN SKILLS 
 
 | Area | Tools and capabilities |
 |---|---|
@@ -51,9 +51,11 @@ My goal is to bring financial context and analytical methods together to solve p
 ## 🎓 Education & Certification
 
 - **Data Science Certification**, IIM SKILLS · September 2025–October 2026
+  
 - Data Science PG Program : Lisburn University : Northern Ireland
 - Data Science Course With Gen AI Engineering : IIM Skills
-- Data Analytics Master Course With Gen AI : IIM Skills 
+- Data Analytics Master Course With Gen AI : IIM Skills
+  
   - Training includes Python, SQL, machine learning, deep learning, TensorFlow, Keras, PyTorch, NLP, Generative AI, Gensim, and Scikit-learn.
 - **Bachelor of Commerce (B.Com)**, University of Pune · 2008
 
