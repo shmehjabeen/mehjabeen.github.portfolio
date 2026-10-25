@@ -1,4 +1,4 @@
-MEHJABEEN SHAIKH
+**MEHJABEEN SHAIKH**
 
 **Data Science | Machine Learning | AI Engineering | Finance & Capital Markets**
 
@@ -50,7 +50,7 @@ My goal is to bring financial context and analytical methods together to solve p
 
 ## 🎓 Education & Certification
 
-- **Data Science Certification**, IIM SKILLS · September 2025–October 2026
+**Data Science Certification**, IIM SKILLS · September 2025–October 2026
   
 - Data Science PG Program : Lisburn University : Northern Ireland
 - Data Science Course With Gen AI Engineering : IIM Skills
