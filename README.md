@@ -2,9 +2,6 @@ Mehjabeen Shaikh
 
 **Data Science | Machine Learning | AI Engineering | Finance & Capital Markets**
 
-Finance and capital-markets professional with 10+ years of experience in fund accounting, financial operations, trade processing, reconciliation, and client management. Building on this domain expertise with formal training and hands-on work in data science, machine learning, deep learning, NLP, and generative AI.
-
-
 ## 👋 About Me
 
 Finance and capital markets professional with **10+ years of experience** spanning fund accounting, transaction processing, reconciliations, trade lifecycle operations, and client service. I’m building on that domain expertise with formal training and hands-on practice in **data science, machine learning, deep learning, NLP, and generative AI**.
@@ -53,7 +50,10 @@ My goal is to bring financial context and analytical methods together to solve p
 
 ## 🎓 Education & Certification
 
-- **Data Science Certification**, IIM SKILLS · September 2025–October 2026 *(program dates listed on resume)*
+- **Data Science Certification**, IIM SKILLS · September 2025–October 2026
+- Data Science PG Program : Lisburn University : Northern Ireland
+- Data Science Course With Gen AI Engineering : IIM Skills
+- Data Analytics Master Course With Gen AI : IIM Skills 
   - Training includes Python, SQL, machine learning, deep learning, TensorFlow, Keras, PyTorch, NLP, Generative AI, Gensim, and Scikit-learn.
 - **Bachelor of Commerce (B.Com)**, University of Pune · 2008
 
