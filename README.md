@@ -1,5 +1,6 @@
-*MEHJABEEN SHAIKH*
-*Data Science Portfolio*
+**MEHJABEEN SHAIKH**
+
+**Data Science Portfolio**
 
 **Data Science | Machine Learning | AI Engineering | Finance & Capital Markets**
 
